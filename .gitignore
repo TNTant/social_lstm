@@ -1,0 +1,15 @@
+*.rar
+*.avi
+*.vsp
+*.txt
+*.mat
+*.png
+*.pyc
+save
+*.cpkl
+*.backup
+test.py
+save_backup
+save_lstm
+plot
+backup
