@@ -25,6 +25,7 @@ class SocialModel():
         # If sampling new trajectories, then infer mode
         if infer:
             # Sample one position at a time
+            #jnmkmnjkjk;kijmk/l
             args.batch_size = 1
             args.seq_length = 1
 
@@ -36,7 +37,7 @@ class SocialModel():
         self.rnn_size = args.rnn_size
         self.grid_size = args.grid_size
 
-        # Maximum number of peds
+        # Maximum number
         self.maxNumPeds = args.maxNumPeds
 
         # NOTE : For now assuming, batch_size is always 1. That is the input
