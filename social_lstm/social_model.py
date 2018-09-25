@@ -2,8 +2,7 @@
 Social LSTM model implementation using Tensorflow
 Social LSTM Paper: http://vision.stanford.edu/pdf/CVPR16_N_LSTM.pdf
 
-Author : Anirudh Vemula
-Date: 17th October 2016
+
 '''
 
 import tensorflow as tf
